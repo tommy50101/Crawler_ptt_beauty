@@ -53,5 +53,5 @@ def crowler():
 
 reg_imgur_file = re.compile('http[s]?://[i.]*imgur.com/\w+\.(?:jpg|png|gif)')
 crowler()
-
-print('test change')
+print('Finish')
+input()
